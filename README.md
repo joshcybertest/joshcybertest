@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshcybertest/LABURL)
-- [Hello World!](https://github.com/joshcybertest/LABURL)
+- [Active Directory Home Lab](https://github.com/joshcybertest/ActiveDirectoryLab)
+- [Hello World!](https://github.com/joshcybertest/ActiveDirectoryLab)
 
 <h2>📄 Certifications</h2>
 
